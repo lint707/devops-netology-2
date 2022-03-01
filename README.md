@@ -13,3 +13,7 @@ first text
 
 файлы конфигурации CLI .terraformrc terraform.rc
 
+
+===========
+NEW TEST
+===========
